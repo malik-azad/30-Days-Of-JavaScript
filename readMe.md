@@ -76,7 +76,7 @@
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
 - [30 Days Of JavaScript](#30-days-of-javascript)
-- [📔 Day 1](#-day-1)
+- [📔# Day 1](#-day-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
 	- [Setup](#setup)
