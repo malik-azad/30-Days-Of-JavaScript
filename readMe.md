@@ -109,7 +109,7 @@
 	- [Variables](#variables)
 - [💻 Day 1: Exercises](#-day-1-exercises)
 
-# 📔 Day 1
+ 📔 Day 1
 
 ## Introduction
 
